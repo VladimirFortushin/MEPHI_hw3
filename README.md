@@ -1,4 +1,4 @@
-1. The app listens to POST in any container servlet
+1. The app listens to POST in a container servlet (not specified in pom.xml)
 2. Request:
    POST .../link/create
   {
